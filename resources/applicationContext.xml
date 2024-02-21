@@ -7,15 +7,7 @@
         http://www.springframework.org/schema/context
         http://www.springframework.org/schema/context/spring-context.xsd">
 
-<!--    <bean id="myPet"-->
-<!--          class="com.bils1na.spring.spring_introduction.Dog">-->
-
-<!--    </bean>-->
-    <bean id="cat"
-          class="com.bils1na.spring.spring_introduction.Cat">
-
-    </bean>
-    <bean id="dog"
+    <bean id="myPet"
           class="com.bils1na.spring.spring_introduction.Dog">
 
     </bean>
